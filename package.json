@@ -45,7 +45,7 @@
   "devDependencies": {
     "@types/jest": "^23.0.0",
     "@types/node": "^10.3.1",
-    "aws-sdk": "^2.297.0",
+    "aws-sdk": "2.396.0",
     "babel-jest": "^23.0.1",
     "babel-preset-env": "^1.7.0",
     "codecov": "^3.0.1",
